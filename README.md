@@ -6,7 +6,7 @@
 	- Use Prepare_Bin_data.ipynb
 	
 2) Train LSTM using Generated training .csv Files
-	- For Annealed sample use LSTM_Train.ipynb
+	- For Annealed sample use LSTM_Train_NonHeatTreat.ipynb
 	- For Heat Treated Sample use LSTM_Train_HeatTreat.ipynb
 	
 3) Create data for non-experimental cases
@@ -16,5 +16,4 @@
 	- Use Create_Predict_Data.ipynb
 	
 5) Validate data and test on non-experimental cases
-	- For Annealed Sample use LSTM_Predict
 	- For Heat Treated sample use LSTM_Predict_HeatTreat
